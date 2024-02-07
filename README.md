@@ -12,3 +12,5 @@ Capable of CRUD.
 6th, The data can be printed when the Log in open.
 
 Professor's Recommendation, Bulk Printing of Data in the History Log
+
+Programmers Recommendation, Optimize code specially the default connection of library database(too lazy to fix it).
